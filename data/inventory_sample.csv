@@ -1,0 +1,23 @@
+sku,product_name,category,stock,reorder_point,supplier,last_alert_status
+SKU-001,Cotton T-Shirt,Apparel,120,40,Textiles Norte,
+SKU-002,Denim Jeans,Apparel,34,30,Textiles Norte,
+SKU-003,Hooded Sweatshirt,Apparel,22,30,Textiles Norte,LOW
+SKU-004,Summer Dress,Apparel,12,30,Moda Sur,
+SKU-005,Leather Belt,Accessories,60,20,Cuero Andino,
+SKU-006,Canvas Backpack,Accessories,0,15,Cuero Andino,CRITICAL
+SKU-007,Sunglasses,Accessories,18,15,Optica Central,
+SKU-008,Wool Scarf,Accessories,9,20,Textiles Norte,
+SKU-009,Running Shoes,Footwear,75,35,Calzado Oriente,
+SKU-010,Leather Boots,Footwear,14,25,Calzado Oriente,LOW
+SKU-011,Sandals,Footwear,88,30,Calzado Oriente,
+SKU-012,Sneakers,Footwear,41,40,Calzado Oriente,
+SKU-013,Cotton Socks (3-pack),Basics,200,80,Textiles Norte,
+SKU-014,Underwear (5-pack),Basics,5,60,Textiles Norte,
+SKU-015,Pajama Set,Basics,37,25,Moda Sur,
+SKU-016,Yoga Mat,Sports,52,20,Deportes Vital,
+SKU-017,Water Bottle,Sports,,30,Deportes Vital,
+SKU-018,Gym Gloves,Sports,16,15,Deportes Vital,
+SKU-019,Resistance Bands,Sports,n/a,20,Deportes Vital,
+SKU-020,Beach Towel,Home,44,20,Hogar Plus,
+SKU-021,Throw Blanket,Home,27,25,Hogar Plus,OK
+SKU-022,Scented Candle,Home,3,18,Hogar Plus,
